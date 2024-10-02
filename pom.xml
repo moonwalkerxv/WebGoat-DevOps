@@ -9,4 +9,6 @@
         <version>8.2.3-SNAPSHOT</version>
     </parent>
 
+	<contributors>Strategicminds</contributors>
+
 </project>

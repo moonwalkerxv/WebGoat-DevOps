@@ -9,4 +9,5 @@
         <version>8.2.3-SNAPSHOT</version>
     </parent>
 
+	<developers>AMolp</developers>
 </project>
